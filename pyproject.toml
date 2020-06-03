@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cdk-chalice-lite"
-version = "0.1.6"
+version = "0.1.7"
 description = "Utility to facilitate deploying Chalice via the cdk"
 authors = ["Stephan Fitzpatrick <knowsuchagency@gmail.com>"]
 license = "Apache-2.0"
