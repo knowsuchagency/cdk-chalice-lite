@@ -4,7 +4,6 @@ from cdk_chalice_lite import Chalice
 
 
 class TestChalice(core.Stack):
-
     def __init__(self, scope, id, source_dir, **kwargs):
         super().__init__(scope, id, **kwargs)
 
